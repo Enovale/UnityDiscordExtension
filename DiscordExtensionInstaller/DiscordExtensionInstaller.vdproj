@@ -15,18 +15,6 @@
     {
         "Entry"
         {
-        "MsmKey" = "8:_0C9E48212770420EEC430E137E6613B0"
-        "OwnerKey" = "8:_2315C30959C84CACA6F44DA2AB704F82"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_0C9E48212770420EEC430E137E6613B0"
-        "OwnerKey" = "8:_A2D88EE84F95D2DCAFA2F4F12A303F9A"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
         "MsmKey" = "8:_2315C30959C84CACA6F44DA2AB704F82"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
@@ -45,62 +33,8 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_6C2CC313A266AC8DFCAADED04AADC46D"
-        "OwnerKey" = "8:_2315C30959C84CACA6F44DA2AB704F82"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_6C2CC313A266AC8DFCAADED04AADC46D"
-        "OwnerKey" = "8:_A2D88EE84F95D2DCAFA2F4F12A303F9A"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_7BE36DC3D04C4010AD6621E6A3C8ACF9"
-        "OwnerKey" = "8:_2315C30959C84CACA6F44DA2AB704F82"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_7BE36DC3D04C4010AD6621E6A3C8ACF9"
-        "OwnerKey" = "8:_A2D88EE84F95D2DCAFA2F4F12A303F9A"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
         "MsmKey" = "8:_956D8EFAF4034E1FAD57347C4892C636"
         "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_A2D88EE84F95D2DCAFA2F4F12A303F9A"
-        "OwnerKey" = "8:_2315C30959C84CACA6F44DA2AB704F82"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_A2D88EE84F95D2DCAFA2F4F12A303F9A"
-        "OwnerKey" = "8:_296D67918B6D484B8E873E7A2E157B24"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_B5FFCF63B969DC26BFB664341548C1FC"
-        "OwnerKey" = "8:_A2D88EE84F95D2DCAFA2F4F12A303F9A"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_B5FFCF63B969DC26BFB664341548C1FC"
-        "OwnerKey" = "8:_296D67918B6D484B8E873E7A2E157B24"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_B5FFCF63B969DC26BFB664341548C1FC"
-        "OwnerKey" = "8:_2315C30959C84CACA6F44DA2AB704F82"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -111,140 +45,8 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_BA71C66B4B6F17091FE5B5CB3793692C"
-        "OwnerKey" = "8:_2315C30959C84CACA6F44DA2AB704F82"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_BA71C66B4B6F17091FE5B5CB3793692C"
-        "OwnerKey" = "8:_A2D88EE84F95D2DCAFA2F4F12A303F9A"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_BA71C66B4B6F17091FE5B5CB3793692C"
-        "OwnerKey" = "8:_7BE36DC3D04C4010AD6621E6A3C8ACF9"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_BA71C66B4B6F17091FE5B5CB3793692C"
-        "OwnerKey" = "8:_F4B3D32ED7CA2EF7CA0CF0935D3B6D48"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_BCDDCE76722C53F72FA9BCA164D9600C"
-        "OwnerKey" = "8:_2315C30959C84CACA6F44DA2AB704F82"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_BCDDCE76722C53F72FA9BCA164D9600C"
-        "OwnerKey" = "8:_A2D88EE84F95D2DCAFA2F4F12A303F9A"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_DFC635CBA183A1181C05EEFF7C15A7E8"
-        "OwnerKey" = "8:_2315C30959C84CACA6F44DA2AB704F82"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_E1DAEE3D110315FE8FD27C5385CFDAFF"
-        "OwnerKey" = "8:_2315C30959C84CACA6F44DA2AB704F82"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_E1DAEE3D110315FE8FD27C5385CFDAFF"
-        "OwnerKey" = "8:_A2D88EE84F95D2DCAFA2F4F12A303F9A"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_F4B3D32ED7CA2EF7CA0CF0935D3B6D48"
-        "OwnerKey" = "8:_2315C30959C84CACA6F44DA2AB704F82"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_F4B3D32ED7CA2EF7CA0CF0935D3B6D48"
-        "OwnerKey" = "8:_7BE36DC3D04C4010AD6621E6A3C8ACF9"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
         "MsmKey" = "8:_UNDEFINED"
         "OwnerKey" = "8:_296D67918B6D484B8E873E7A2E157B24"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_2315C30959C84CACA6F44DA2AB704F82"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_A2D88EE84F95D2DCAFA2F4F12A303F9A"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_B5FFCF63B969DC26BFB664341548C1FC"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_7BE36DC3D04C4010AD6621E6A3C8ACF9"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_BCDDCE76722C53F72FA9BCA164D9600C"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_E1DAEE3D110315FE8FD27C5385CFDAFF"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_F4B3D32ED7CA2EF7CA0CF0935D3B6D48"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_BA71C66B4B6F17091FE5B5CB3793692C"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_6C2CC313A266AC8DFCAADED04AADC46D"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_DFC635CBA183A1181C05EEFF7C15A7E8"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_0C9E48212770420EEC430E137E6613B0"
         "MsmSig" = "8:_UNDEFINED"
         }
     }
@@ -327,7 +129,7 @@
             "FileType" = "3:1"
             "InstallAction" = "3:2"
             "Arguments" = "8:"
-            "EntryPoint" = "8:DetectUnity"
+            "EntryPoint" = "8:"
             "Sequence" = "3:1"
             "Identifier" = "8:_49495FFE_3146_4239_9009_652DC74F55B0"
             "InstallerClass" = "11:TRUE"
@@ -342,7 +144,7 @@
             "FileType" = "3:1"
             "InstallAction" = "3:4"
             "Arguments" = "8:"
-            "EntryPoint" = "8:DetectUnity"
+            "EntryPoint" = "8:"
             "Sequence" = "3:1"
             "Identifier" = "8:_8A08B3C3_DD8B_4400_87AD_495492CDFEE1"
             "InstallerClass" = "11:TRUE"
@@ -357,7 +159,7 @@
             "FileType" = "3:1"
             "InstallAction" = "3:1"
             "Arguments" = "8:"
-            "EntryPoint" = "8:DetectUnity"
+            "EntryPoint" = "8:"
             "Sequence" = "3:1"
             "Identifier" = "8:_0A8F491D_AB05_4AB3_953C_AA71DBFA785E"
             "InstallerClass" = "11:TRUE"
@@ -387,37 +189,6 @@
         }
         "File"
         {
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_0C9E48212770420EEC430E137E6613B0"
-            {
-            "AssemblyRegister" = "3:1"
-            "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:Boo.Lang, Version=2.0.9.5, Culture=neutral, PublicKeyToken=32c39770e9a21a67, processorArchitecture=MSIL"
-                "ScatterAssemblies"
-                {
-                    "_0C9E48212770420EEC430E137E6613B0"
-                    {
-                    "Name" = "8:Boo.Lang.dll"
-                    "Attributes" = "3:512"
-                    }
-                }
-            "SourcePath" = "8:Boo.Lang.dll"
-            "TargetName" = "8:"
-            "Tag" = "8:"
-            "Folder" = "8:_F520836CDB314A45ACE399C17B1B1714"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:TRUE"
-            "IsolateTo" = "8:"
-            }
             "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_296D67918B6D484B8E873E7A2E157B24"
             {
             "AssemblyRegister" = "3:1"
@@ -469,68 +240,6 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_6C2CC313A266AC8DFCAADED04AADC46D"
-            {
-            "AssemblyRegister" = "3:1"
-            "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:ExCSS.Unity, Version=2.0.6.0, Culture=neutral, processorArchitecture=MSIL"
-                "ScatterAssemblies"
-                {
-                    "_6C2CC313A266AC8DFCAADED04AADC46D"
-                    {
-                    "Name" = "8:ExCSS.Unity.dll"
-                    "Attributes" = "3:512"
-                    }
-                }
-            "SourcePath" = "8:ExCSS.Unity.dll"
-            "TargetName" = "8:"
-            "Tag" = "8:"
-            "Folder" = "8:_F520836CDB314A45ACE399C17B1B1714"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:TRUE"
-            "IsolateTo" = "8:"
-            }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_7BE36DC3D04C4010AD6621E6A3C8ACF9"
-            {
-            "AssemblyRegister" = "3:1"
-            "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:Unity.SerializationLogic, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL"
-                "ScatterAssemblies"
-                {
-                    "_7BE36DC3D04C4010AD6621E6A3C8ACF9"
-                    {
-                    "Name" = "8:Unity.SerializationLogic.dll"
-                    "Attributes" = "3:512"
-                    }
-                }
-            "SourcePath" = "8:Unity.SerializationLogic.dll"
-            "TargetName" = "8:"
-            "Tag" = "8:"
-            "Folder" = "8:_F520836CDB314A45ACE399C17B1B1714"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:TRUE"
-            "IsolateTo" = "8:"
-            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_956D8EFAF4034E1FAD57347C4892C636"
             {
             "SourcePath" = "8:..\\Build\\DiscordClassLibrary.pdb"
@@ -551,68 +260,6 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_A2D88EE84F95D2DCAFA2F4F12A303F9A"
-            {
-            "AssemblyRegister" = "3:1"
-            "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:UnityEditor, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL"
-                "ScatterAssemblies"
-                {
-                    "_A2D88EE84F95D2DCAFA2F4F12A303F9A"
-                    {
-                    "Name" = "8:UnityEditor.dll"
-                    "Attributes" = "3:512"
-                    }
-                }
-            "SourcePath" = "8:UnityEditor.dll"
-            "TargetName" = "8:"
-            "Tag" = "8:"
-            "Folder" = "8:_F520836CDB314A45ACE399C17B1B1714"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:TRUE"
-            "IsolateTo" = "8:"
-            }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_B5FFCF63B969DC26BFB664341548C1FC"
-            {
-            "AssemblyRegister" = "3:1"
-            "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:UnityEngine, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL"
-                "ScatterAssemblies"
-                {
-                    "_B5FFCF63B969DC26BFB664341548C1FC"
-                    {
-                    "Name" = "8:UnityEngine.dll"
-                    "Attributes" = "3:512"
-                    }
-                }
-            "SourcePath" = "8:UnityEngine.dll"
-            "TargetName" = "8:"
-            "Tag" = "8:"
-            "Folder" = "8:_F520836CDB314A45ACE399C17B1B1714"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:TRUE"
-            "IsolateTo" = "8:"
-            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_B991C57421B84A38BD31FB2937043ACB"
             {
             "SourcePath" = "8:..\\Build\\discord-rpc.dll"
@@ -631,161 +278,6 @@
             "Register" = "3:1"
             "Exclude" = "11:FALSE"
             "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_BA71C66B4B6F17091FE5B5CB3793692C"
-            {
-            "AssemblyRegister" = "3:1"
-            "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:Unity.Cecil, Version=0.10.0.0, Culture=neutral, PublicKeyToken=fc15b93552389f74, processorArchitecture=MSIL"
-                "ScatterAssemblies"
-                {
-                    "_BA71C66B4B6F17091FE5B5CB3793692C"
-                    {
-                    "Name" = "8:Unity.Cecil.dll"
-                    "Attributes" = "3:512"
-                    }
-                }
-            "SourcePath" = "8:Unity.Cecil.dll"
-            "TargetName" = "8:"
-            "Tag" = "8:"
-            "Folder" = "8:_F520836CDB314A45ACE399C17B1B1714"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:TRUE"
-            "IsolateTo" = "8:"
-            }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_BCDDCE76722C53F72FA9BCA164D9600C"
-            {
-            "AssemblyRegister" = "3:1"
-            "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:Unity.Legacy.NRefactory, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL"
-                "ScatterAssemblies"
-                {
-                    "_BCDDCE76722C53F72FA9BCA164D9600C"
-                    {
-                    "Name" = "8:Unity.Legacy.NRefactory.dll"
-                    "Attributes" = "3:512"
-                    }
-                }
-            "SourcePath" = "8:Unity.Legacy.NRefactory.dll"
-            "TargetName" = "8:"
-            "Tag" = "8:"
-            "Folder" = "8:_F520836CDB314A45ACE399C17B1B1714"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:TRUE"
-            "IsolateTo" = "8:"
-            }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_DFC635CBA183A1181C05EEFF7C15A7E8"
-            {
-            "AssemblyRegister" = "3:1"
-            "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:Microsoft.Deployment.WindowsInstaller, Version=3.0.0.0, Culture=neutral, PublicKeyToken=ce35f76fcda82bad, processorArchitecture=MSIL"
-                "ScatterAssemblies"
-                {
-                    "_DFC635CBA183A1181C05EEFF7C15A7E8"
-                    {
-                    "Name" = "8:Microsoft.Deployment.WindowsInstaller.dll"
-                    "Attributes" = "3:512"
-                    }
-                }
-            "SourcePath" = "8:Microsoft.Deployment.WindowsInstaller.dll"
-            "TargetName" = "8:"
-            "Tag" = "8:"
-            "Folder" = "8:_F520836CDB314A45ACE399C17B1B1714"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:TRUE"
-            "IsolateTo" = "8:"
-            }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_E1DAEE3D110315FE8FD27C5385CFDAFF"
-            {
-            "AssemblyRegister" = "3:1"
-            "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:Unity.DataContract, Version=1.0.2.0, Culture=neutral, processorArchitecture=MSIL"
-                "ScatterAssemblies"
-                {
-                    "_E1DAEE3D110315FE8FD27C5385CFDAFF"
-                    {
-                    "Name" = "8:Unity.DataContract.dll"
-                    "Attributes" = "3:512"
-                    }
-                }
-            "SourcePath" = "8:Unity.DataContract.dll"
-            "TargetName" = "8:"
-            "Tag" = "8:"
-            "Folder" = "8:_F520836CDB314A45ACE399C17B1B1714"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:TRUE"
-            "IsolateTo" = "8:"
-            }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_F4B3D32ED7CA2EF7CA0CF0935D3B6D48"
-            {
-            "AssemblyRegister" = "3:1"
-            "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:Unity.CecilTools, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL"
-                "ScatterAssemblies"
-                {
-                    "_F4B3D32ED7CA2EF7CA0CF0935D3B6D48"
-                    {
-                    "Name" = "8:Unity.CecilTools.dll"
-                    "Attributes" = "3:512"
-                    }
-                }
-            "SourcePath" = "8:Unity.CecilTools.dll"
-            "TargetName" = "8:"
-            "Tag" = "8:"
-            "Folder" = "8:_F520836CDB314A45ACE399C17B1B1714"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
         }
@@ -867,7 +359,7 @@
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:Unity Discord Extension"
         "ProductCode" = "8:{AF25C86C-964B-47C1-9B7D-BC83D9AEA1F7}"
-        "PackageCode" = "8:{C56031AD-D71E-46A8-98B2-27C978A6317A}"
+        "PackageCode" = "8:{3A2EE328-0092-48BF-BD66-C1795C143613}"
         "UpgradeCode" = "8:{5DAEA3FB-97E9-47F3-997E-E7C0D8798653}"
         "AspNetVersion" = "8:2.0.50727.0"
         "RestartWWWService" = "11:FALSE"
