@@ -73,6 +73,8 @@
     <PostBuildEvent>copy /Y "$(SolutionDir)lib\$(PlatformName)\discord-rpc.dll" "$(TargetDir)discord-rpc.dll"
 if $(ConfigurationName) == Debug (
 xcopy "$(TargetDir)*" "D:\Unity\2019.1.3f1\Editor\Data\UnityExtensions\Unity\UnityDiscord\Editor\" /S /Y
-)</PostBuildEvent>
+)
+if not exist $(SolutionDir)Build mkdir $(SolutionDir)Build
+xcopy "$(TargetDir)*" "$(SolutionDir)Build" /S /Y</PostBuildEvent>
   </PropertyGroup>
 </Project>

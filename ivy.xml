@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ivy-module version="2.0">
+  <info version="2019.1.3" organisation="Meme Inc." module="Unity Discord Integration" e:packageType="UnityExtension" e:unityVersion="2019.1.3f1" xmlns:e="http://ant.apache.org/ivy/extra" />
+  <publications xmlns:e="http://ant.apache.org/ivy/extra">
+    <artifact name="Editor/DiscordClassLibrary" type="dll" ext="dll" e:guid="cbfcd94da1d949928193984a32bee5b6" />
+  </publications>
+</ivy-module>

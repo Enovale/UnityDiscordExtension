@@ -42,14 +42,15 @@ public class DiscordControllerEditor : Editor
     static DiscordControllerEditor()
     {
         RunOnce();
-        EditorSceneManager.activeSceneChangedInEditMode += HierarchyChanged;
-        EditorApplication.playModeStateChanged += StateChanged;
     }
 
     static void RunOnce()
     {
         if (!EditorApplication.isPlayingOrWillChangePlaymode)
         {
+            EditorSceneManager.activeSceneChangedInEditMode += HierarchyChanged;
+            EditorApplication.playModeStateChanged += StateChanged;
+            EditorApplication.quitting += EditorOnQuit;
             Debug.Log("RunOnce!");
             started = true;
             now = DateTime.UtcNow;
@@ -58,6 +59,11 @@ public class DiscordControllerEditor : Editor
             Debug.Log(EditorPrefs.GetInt("discordEpoch", startEpoch));
             Start();
         }
+    }
+
+    public static void EditorOnQuit()
+    {
+        EditorPrefs.SetInt("discordEpoch", 0);
     }
 
     public static void RequestRespondYes()
