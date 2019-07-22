@@ -75,6 +75,9 @@ if $(ConfigurationName) == Debug (
 xcopy "$(TargetDir)*" "D:\Unity\2019.1.3f1\Editor\Data\UnityExtensions\Unity\UnityDiscord\Editor\" /S /Y
 )
 if not exist $(SolutionDir)Build mkdir $(SolutionDir)Build
-xcopy "$(TargetDir)*" "$(SolutionDir)Build" /S /Y</PostBuildEvent>
+if not exist $(SolutionDir)Build\UnityDiscord mkdir $(SolutionDir)Build\UnityDiscord
+if not exist $(SolutionDir)Build\UnityDiscord\Editor mkdir $(SolutionDir)Build\UnityDiscord\Editor
+xcopy "$(TargetDir)*" "$(SolutionDir)Build\UnityDiscord\Editor" /S /Y
+copy /Y "$(SolutionDir)ivy.xml" "$(SolutionDir)Build\UnityDiscord"</PostBuildEvent>
   </PropertyGroup>
 </Project>

@@ -167,11 +167,7 @@ public class DiscordControllerEditor : Editor
         }
         else
         {
-            string[] s = Application.dataPath.Split('/');
-            string projectName = s[s.Length - 2];
-            Debug.Log("project = " + projectName);
-            presence.details = string.Format("Working on {0}, in scene {1}", projectName, sceneto.name);
-            DiscordRpc.UpdatePresence(presence);
+            Start();
         }
     }
 
